@@ -1,0 +1,24 @@
+
+body{
+    background-color: #313334;
+}
+
+.custom-button {
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: #007BFF; 
+    color: #fff; 
+    border: none;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    transition: background-color 0.4s ease;
+    text-decoration: none; 
+}
+
+.custom-button:hover {
+    background-color: #0056b3; 
+}
+
+
